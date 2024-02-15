@@ -196,6 +196,7 @@ cv2.destroyAllWindows()
 
 ### ii)Write the image
 
+![WhatsApp Image 2024-02-15 at 9 29 55 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/e04e506a-edeb-4b4e-bf94-4a89ffce8631)
 
 
 ### iii)Shape of the Image
@@ -211,17 +212,34 @@ cv2.destroyAllWindows()
 
 ### vi) BGR and RGB to HSV and GRAY
 
+![WhatsApp Image 2024-02-15 at 9 12 37 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/6efe871d-1dd9-4d66-aa26-9b5d8e29a0ff)
+![WhatsApp Image 2024-02-15 at 9 13 05 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/4eb5962f-b02e-4770-b880-bace0fc5e6f2)
+![WhatsApp Image 2024-02-15 at 9 12 32 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/0d3a1f30-328a-4573-831d-3bcf5d98ba37)
+![WhatsApp Image 2024-02-15 at 9 13 25 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/bbbbd49b-c98a-4293-a256-2551ef827b55)
+![WhatsApp Image 2024-02-15 at 9 13 14 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/b0290096-f523-4e83-a523-5f8dde6236d6)
 
 ### vii) HSV to RGB and BGR
+![WhatsApp Image 2024-02-15 at 9 15 34 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/7063c25f-0ba7-4d34-8d06-8a8ebda6461b)
+![WhatsApp Image 2024-02-15 at 9 15 27 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/7214c0d1-81d8-45c1-89d9-de1553d378c3)
+![WhatsApp Image 2024-02-15 at 9 15 16 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/bbb79f34-a836-44f2-b051-21fd60e9291c)
 
 
 ### viii) RGB and BGR to YCrCb
-
+![WhatsApp Image 2024-02-15 at 9 17 20 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/971e5326-c953-4e74-b04e-babcc6ffe8c5)
+![WhatsApp Image 2024-02-15 at 9 17 30 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/e83c7624-6ff3-4308-923a-574fdd98ea06)
+![WhatsApp Image 2024-02-15 at 9 17 43 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/431d2f48-b86d-4126-8ed9-1119c2ba1732)
 
 ### ix) Split and merge RGB Image
-
+![WhatsApp Image 2024-02-15 at 9 19 18 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/ab2a34fe-87ad-4e5f-abd9-a9524b998491)
+![WhatsApp Image 2024-02-15 at 9 19 44 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/670656e0-f12c-49e0-9658-303dc2078bea)
+![WhatsApp Image 2024-02-15 at 9 19 36 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/75f5d20e-c1fe-457e-891c-10bd715141a4)
+![WhatsApp Image 2024-02-15 at 9 20 01 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/a4acf06b-0f08-4a5e-b737-77675e5abfd7)
 
 ### x) Split and merge HSV Image
+![WhatsApp Image 2024-02-15 at 9 21 18 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/2e69b65f-f6c2-4869-a6f2-4dc9e43ddc1b)
+![WhatsApp Image 2024-02-15 at 9 21 29 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/0d261e25-338c-4842-b8bd-722c4c06da24)
+![WhatsApp Image 2024-02-15 at 9 21 38 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/9e547f82-70aa-49d4-b014-58c51a009383)
+![WhatsApp Image 2024-02-15 at 9 21 49 PM](https://github.com/Yogabharathi3/COLOR_CONVERSIONS_OF-IMAGE/assets/118899387/91514a75-abc5-46b0-925c-a12ec4f89522)
 
 
 ## Result:
