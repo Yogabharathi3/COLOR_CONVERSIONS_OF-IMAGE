@@ -37,8 +37,8 @@ Split and merge HSV Image
 
 ##### Program:
 ```
-### Developed By:Yogabharathi S
-### Register Number:212222230179
+Developed By:Yogabharathi S
+Register Number:212222230179
 ```
 ### i) Read and display the image
 ```
